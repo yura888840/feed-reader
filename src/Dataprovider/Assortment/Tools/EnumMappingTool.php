@@ -1,10 +1,10 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\Tools;
+namespace FeedReader\Dataprovider\Assortment\Tools;
 
 /**
  * Class EnumMappingTool
- * @package kollex\Dataprovider\Assortment\Tools
+ * @package FeedReader\Dataprovider\Assortment\Tools
  */
 class EnumMappingTool
 {

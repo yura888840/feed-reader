@@ -1,10 +1,10 @@
 <?php 
 
-namespace kollex\Command;
+namespace FeedReader\Command;
 
-use kollex\Dataprovider\DataSourceMapper;
-use kollex\Dataprovider\Assortment\DataSource\FeedFactory;
-use kollex\Dataprovider\Assortment\ProductDataProvider;
+use FeedReader\Dataprovider\DataSourceMapper;
+use FeedReader\Dataprovider\Assortment\DataSource\FeedFactory;
+use FeedReader\Dataprovider\Assortment\ProductDataProvider;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Command\Command;

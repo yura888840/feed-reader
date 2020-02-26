@@ -1,13 +1,13 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\DataSource\JsonFeed;
+namespace FeedReader\Dataprovider\Assortment\DataSource\JsonFeed;
 
-use kollex\Dataprovider\Assortment\DataSource\IMapper;
-use kollex\Dataprovider\Assortment\Tools\EnumMappingTool;
+use FeedReader\Dataprovider\Assortment\DataSource\IMapper;
+use FeedReader\Dataprovider\Assortment\Tools\EnumMappingTool;
 
 /**
  * Class Mapper
- * @package App\Dataprovider\ProductProvider\DataSource\JsonFeed
+ * @package FeedReader\Dataprovider\ProductProvider\DataSource\JsonFeed
  */
 final class Mapper implements IMapper
 {

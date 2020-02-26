@@ -1,6 +1,6 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\DataSource;
+namespace FeedReader\Dataprovider\Assortment\DataSource;
 
 interface IReader
 {

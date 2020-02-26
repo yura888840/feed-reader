@@ -1,12 +1,12 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\DataSource\CsvFeed;
+namespace FeedReader\Dataprovider\Assortment\DataSource\CsvFeed;
 
-use kollex\Dataprovider\Assortment\DataSource\IReader;
+use FeedReader\Dataprovider\Assortment\DataSource\IReader;
 
 /**
  * Class Reader
- * @package kollex\Dataprovider\Assortment\DataSource\CsvFeed
+ * @package FeedReader\Dataprovider\Assortment\DataSource\CsvFeed
  */
 class Reader implements IReader
 {

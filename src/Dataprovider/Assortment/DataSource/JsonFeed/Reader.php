@@ -1,12 +1,12 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\DataSource\JsonFeed;
+namespace FeedReader\Dataprovider\Assortment\DataSource\JsonFeed;
 
-use kollex\Dataprovider\Assortment\DataSource\IReader;
+use FeedReader\Dataprovider\Assortment\DataSource\IReader;
 
 /**
  * Class Reader
- * @package kollex\Dataprovider\Assortment\DataSource\JsonFeed
+ * @package FeedReader\Dataprovider\Assortment\DataSource\JsonFeed
  */
 class Reader implements IReader
 {

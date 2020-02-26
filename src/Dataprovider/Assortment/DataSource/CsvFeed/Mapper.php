@@ -1,13 +1,13 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\DataSource\CsvFeed;
+namespace FeedReader\Dataprovider\Assortment\DataSource\CsvFeed;
 
-use kollex\Dataprovider\Assortment\DataSource\IMapper;
-use kollex\Dataprovider\Assortment\Tools\EnumMappingTool;
+use FeedReader\Dataprovider\Assortment\DataSource\IMapper;
+use FeedReader\Dataprovider\Assortment\Tools\EnumMappingTool;
 
 /**
  * Class Mapper
- * @package kollex\Dataprovider\Assortment\DataSource\CsvFeed
+ * @package FeedReader\Dataprovider\Assortment\DataSource\CsvFeed
  */
 final class Mapper implements IMapper
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment\TargetEntity;
+namespace FeedReader\Dataprovider\Assortment\TargetEntity;
 
-use kollex\Dataprovider\Assortment\Product as IProduct;
+use FeedReader\Dataprovider\Assortment\Product as IProduct;
 
 class Product implements IProduct
 {

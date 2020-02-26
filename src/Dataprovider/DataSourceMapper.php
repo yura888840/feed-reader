@@ -1,8 +1,8 @@
 <?php
 
-namespace kollex\Dataprovider;
+namespace FeedReader\Dataprovider;
 
-use kollex\Dataprovider\Assortment\DataSource\IMapper;
+use FeedReader\Dataprovider\Assortment\DataSource\IMapper;
 
 /**
  * Class DataSourceMapper

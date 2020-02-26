@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests\DataProvider;
+namespace FeedReader\Tests\DataProvider;
 
-use kollex\Dataprovider\DataSourceMapper;
-use kollex\Dataprovider\Assortment\DataSource\IMapper;
+use FeedReader\Dataprovider\DataSourceMapper;
+use FeedReader\Dataprovider\Assortment\DataSource\IMapper;
 use PHPUnit\Framework\TestCase;
 
 class DataSourceMapperTest extends TestCase

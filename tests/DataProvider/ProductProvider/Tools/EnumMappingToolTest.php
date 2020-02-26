@@ -1,8 +1,8 @@
 <?php
 
-namespace Tests\DataProvider\ProductProvider\Tools;
+namespace FeedReader\Tests\DataProvider\ProductProvider\Tools;
 
-use kollex\Dataprovider\Assortment\Tools\EnumMappingTool;
+use FeedReader\Dataprovider\Assortment\Tools\EnumMappingTool;
 use PHPUnit\Framework\TestCase;
 
 class EnumMappingToolTest extends TestCase

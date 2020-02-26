@@ -1,15 +1,15 @@
 <?php
 
-namespace kollex\Dataprovider\Assortment;
+namespace FeedReader\Dataprovider\Assortment;
 
-use kollex\Dataprovider\Assortment\TargetEntity\Product;
-use kollex\Dataprovider\Assortment\Product as IProduct;
-use kollex\Dataprovider\Assortment\DataProvider;
-use kollex\Dataprovider\DataSourceMapper;
+use FeedReader\Dataprovider\Assortment\TargetEntity\Product;
+use FeedReader\Dataprovider\Assortment\Product as IProduct;
+use FeedReader\Dataprovider\Assortment\DataProvider;
+use FeedReader\Dataprovider\DataSourceMapper;
 
 /**
  * Class ProductDataProvider
- * @package kollex\Dataprovider\Assortment
+ * @package FeedReader\Dataprovider\Assortment
  */
 class ProductDataProvider implements DataProvider
 {
